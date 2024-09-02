@@ -1,5 +1,1 @@
-- 👋 Hi, I’m MARCOS PEREIRA
-- 👀 I'm resuming developer activities in PYTHON, PHP, C#...
-
-<!---
---->
+Olá, estou retomando estudos de desenvolvimento.
